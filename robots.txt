@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
 Sitemap: https://bundang-web-marketing.hardcoreroom.com/sitemap.xml
+Sitemap: https://bundang-web-marketing.hardcoreroom.com/sitemap-pages.xml
